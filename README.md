@@ -1,4 +1,4 @@
-# libgen-python-api
+# libgen Python Rest Api
 A Python library that provides an api to search and get links from Books,Magazines,Comics,... from Library Genesis.
 
 Requirements:
@@ -7,6 +7,7 @@ Requirements:
 * Grab library and it's dependencies.
 * pycurl
 * lxml
+* Flask
 
 Installation:
 -------------
