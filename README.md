@@ -5,6 +5,8 @@ Requirements:
 -------------
 * Python 2/3
 * Grab library and it's dependencies.
+* pycurl
+* lxml
 
 Installation:
 -------------
